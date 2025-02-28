@@ -1,0 +1,23 @@
+# ninja log v5
+9	90	7622864339513806	CMakeFiles/practice_.dir/main.cpp.obj	2ee6e322115200dc
+1331	1555	7624538390936915	practice_.exe	52f9c9bfd106d7b1
+5	1330	7624538388766931	CMakeFiles/practice_.dir/debug.cpp.obj	8c306a6cf2c7065b
+3	1419	7624543243510209	build.ninja	2c581d70357f88e5
+1	1840	7624543264440233	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1840	2189	7624543267770227	practice_.exe	f708a435d5d5161c
+4	2163	7624543475558905	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+2164	2384	7624543478308915	practice_.exe	f708a435d5d5161c
+5	1722	7624544357257603	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1722	1982	7624544359817627	practice_.exe	f708a435d5d5161c
+6	1404	7624545027325962	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1405	1679	7624545030015969	practice_.exe	f708a435d5d5161c
+5	1791	7624545248750442	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1792	2066	7624545251430404	practice_.exe	f708a435d5d5161c
+8	1928	7624545497858558	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1928	2237	7624545500893804	practice_.exe	f708a435d5d5161c
+5	1683	7624546004494247	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1683	2022	7624546007804281	practice_.exe	f708a435d5d5161c
+6	1759	7624546418851541	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1759	2048	7624546421651524	practice_.exe	f708a435d5d5161c
+5	1648	7624546951587923	CMakeFiles/practice_.dir/Linked_List.cpp.obj	2ad78f866cd7c9fe
+1649	1905	7624546954047899	practice_.exe	f708a435d5d5161c

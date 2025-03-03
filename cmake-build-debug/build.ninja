@@ -55,6 +55,12 @@ build CMakeFiles/practice_.dir/Linked_List.cpp.obj: CXX_COMPILER__practice__Debu
   OBJECT_DIR = CMakeFiles\practice_.dir
   OBJECT_FILE_DIR = CMakeFiles\practice_.dir
 
+build CMakeFiles/practice_.dir/Doubly_Linked_List.cpp.obj: CXX_COMPILER__practice__Debug E$:/projects/2$ -$ projects$ by$ c++/practice/Doubly$ Linked$ List.cpp || cmake_object_order_depends_target_practice_
+  DEP_FILE = CMakeFiles\practice_.dir\Doubly_Linked_List.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\practice_.dir
+  OBJECT_FILE_DIR = CMakeFiles\practice_.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target practice_
@@ -63,7 +69,7 @@ build CMakeFiles/practice_.dir/Linked_List.cpp.obj: CXX_COMPILER__practice__Debu
 #############################################
 # Link the executable practice_.exe
 
-build practice_.exe: CXX_EXECUTABLE_LINKER__practice__Debug CMakeFiles/practice_.dir/Linked_List.cpp.obj
+build practice_.exe: CXX_EXECUTABLE_LINKER__practice__Debug CMakeFiles/practice_.dir/Linked_List.cpp.obj CMakeFiles/practice_.dir/Doubly_Linked_List.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\practice_.dir
